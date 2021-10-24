@@ -1,15 +1,15 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Harsh Varmora</h1>
-<h3 align="center">My Goal is to become Full Stack Developer and DSA Expert</h3>
+<h3 align="center">A passionate MERN stack developer from India.</h3>
 
 <br/>
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **C++**
+- 🔭 I’m currently working on **MERN Stack Project**
 
-- 🌱 I’m currently learning **C++**
+- 🌱 I’m currently learning **Web and App Development**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
@@ -71,7 +71,7 @@
 <br/>
 <br/>
 
-<!-- <a href="https://github.com/harshvarmora28/github-readme-activity-graph"><img alt="Harsh Varmora's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=harshvarmora28&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> -->
+<a href="https://github.com/harshvarmora28/github-readme-activity-graph"><img alt="Harsh Varmora's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=harshvarmora28&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 
 <br/>
